@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я Игорь 👋
 
-<!--
-**IgorVseznaut/IgorVseznaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик, который увлекается созданием ботов, автоматизацией и искусственным интеллектом.
 
-Here are some ideas to get you started:
+### 🛠️ Мои навыки:
+*   **Языки:** Python, JavaScript
+*   **Технологии:** Git, Telegram API, AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Мои проекты:
+*   [AI-агент Атлас](ссылка на репозиторий)
+*   [Telegram-бот](ссылка на репозиторий)
+*   [Конвертер видео](ссылка на репозиторий)
+
+### 📫 Как со мной связаться:
+*   Telegram: @ваш_ник
+*   Email: ваш@email.com
