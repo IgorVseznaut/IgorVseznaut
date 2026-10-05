@@ -12,5 +12,5 @@
 *   [Конвертер видео](ссылка на репозиторий)
 
 ### 📫 Как со мной связаться:
-*   Telegram: @ваш_ник
-*   Email: ваш@email.com
+*   Telegram: @igorvseznaut
+*   Email: igorvseznaut@gmail.com
